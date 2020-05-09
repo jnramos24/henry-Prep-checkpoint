@@ -1,0 +1,15 @@
+div {
+    width: 500px;
+    background-color: yellow;
+    margin: auto auto;
+}
+li {
+color: red;
+font-size: 25px;
+}
+#imagen {
+    display: block;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+}

@@ -1,0 +1,116 @@
+/*contenedor negro*/
+#div-negro {
+    height: 400px;
+    width: 400px;
+    background-color: black;
+margin: 30px 0;
+padding: 10px 5px;
+border-style: solid;
+border-color: black;
+border-width: 1px 20px 30px 1px;
+}
+/*contenedor1*/ 
+#uno{
+    display: flex;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 30px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: burlywood;
+}
+#uno-contact{
+    font-family: Georgia;
+    color: white;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#uno-careers{
+    font-family: Georgia;
+    color: white;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#uno-about{
+    position: absolute;
+    right: 0px;
+    font-family: Georgia;
+    color: white;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*contenedor2*/
+#dos{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: chocolate;
+}
+#dos-contact{
+    font-family: Georgia;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#dos-careers{
+    font-family: Georgia;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#dos-about{
+    font-family: Georgia;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/*contenedor 3*/
+#tres {
+    display: flex;
+    margin-bottom: 30px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: chocolate;
+}
+#tres-contact {
+    font-family: Georgia;
+    color: white;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ #tres-careers{
+    font-family: Georgia;
+    color: white;
+    width: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#tres-about{
+
+    font-family: Georgia;
+    color: white;
+    width: 60px;
+    display: flex;
+    justify-self: self-end;
+    justify-content: center;
+    align-items: center;
+} 
